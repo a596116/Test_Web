@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <div>1111111111</div>
+  <div>222</div>
   <HelloWorld msg="Hello HaoDai 浩呆" />
 </template>
 
